@@ -18,6 +18,6 @@ This project is a Python-based web scraper that extracts news articles from the 
 
 ## How to Use
 
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/yourusername/tribune-news-scraper.git
