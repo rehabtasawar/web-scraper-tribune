@@ -6,8 +6,8 @@ This project is a Python-based web scraper that extracts news articles from the 
 ## Features
 
 - Scrapes latest headlines from Tribune's news sections
-- Outputs data in a structured format (CSV/JSON)
-- Can be scheduled for periodic runs
+- Outputs data in a structured format (CSV)
+- Uses threads for fast processing
 
 ## Technologies Used
 
